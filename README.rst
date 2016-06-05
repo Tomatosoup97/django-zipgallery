@@ -9,12 +9,12 @@ Internal image names are auto-generated from image file names - keep in mind whi
 Quick start
 -----------
 
-1. Download via `pip install django-zipgallery`
+1. Download via ``pip install django-zipgallery``
 2. Add "zipgallery" to your INSTALLED_APPS
-    INSTALLED_APPS = [
-    ...
-    'zipgallery'.
-    ]
+ INSTALLED_APPS = [
+ ...
+ 'zipgallery'.
+ ]
 3. Run `python manage.py migrate` to create gallery models 
 4. Start running your development and visit admin panel add new gallery
 
