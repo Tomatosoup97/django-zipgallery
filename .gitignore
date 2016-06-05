@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+venv*
+*.ai
+*.psd
+.sass-cache*
+*.log
+*.pot
+local_settings.py
+db.sqlite3
+dist
+develop-eggs/
+eggs/
+*.egg-info/
+*.egg
+
