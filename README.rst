@@ -14,9 +14,9 @@ Quick start
 3. Run `python manage.py migrate` to create gallery models in database
 4. Start running your development and visit ``admin panel`` add new gallery
 
-Created by `Mateusz Urbanczyk a.k.a Tomatosoup`_
+Created by `Mateusz Urbanczyk a.k.a Tomatosoup <http://tomatosoup.pl>`_
 
-Based on `Mezzanine`_ solution for uploading zip to gallery
+
+
+Based on `Mezzanine <https://github.com/stephenmcd/mezzanine>`_ solution for uploading zip to gallery
 See LICENSE for more
-.. _`Mezzanine`: https://github.com/stephenmcd/mezzanine
-.. _`Mateusz Urbanczyk a.k.a Tomatosoup`: http://tomatosoup.pl
